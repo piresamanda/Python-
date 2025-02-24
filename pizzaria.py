@@ -40,7 +40,7 @@ try:
       valor_pedido.append(valor_borda) #Adiciona o valor da borda na lista valor_pedido
       
     else: 
-      print("Prossiga seu pedido!")
+      escolha_borda=None
 
     #Tamanho
     print("\nEscolha o tamanho da pizza: ")
